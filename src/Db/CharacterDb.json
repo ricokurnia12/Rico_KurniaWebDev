@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "Judul": "Saint Seiya",
+    "Char1": "Pegasus Seiya",
+    "Char2": "VirgoShaka",
+    "Char3": "GeminiSaga",
+    "Char4": "PhoenixIkki",
+    "Char5": "AndromedaShun"
+  },
+  {
+    "id": 2,
+    "Judul": "Black Clover",
+    "Char1": "Asta",
+    "Char2": "Yuno",
+    "Char3": "Yami",
+    "Char4": "Noele",
+    "Char5": "Secre"
+  },
+  {
+    "id": 3,
+    "Judul": "Slum Dunk",
+    "Char1": "Hanamichi",
+    "Char2": "Takenori",
+    "Char3": "Kiminobu",
+    "Char4": "Hisashi",
+    "Char5": "Ryota"
+  },
+  {
+    "id": 4,
+    "Judul": "Inuyasha",
+    "Char1": "Inuyasha",
+    "Char2": "Kagome Higurashi",
+    "Char3": "Miroku",
+    "Char4": "Sango",
+    "Char5": "Shippo"
+  },
+  {
+    "id": 5,
+    "Judul": "Yuyu Hakusho",
+    "Char1": "Yusuke",
+    "Char2": "Kazuma Kuwabara",
+    "Char3": "Kurama",
+    "Char4": "Hiei",
+    "Char5": "Genkai"
+  }
+]
